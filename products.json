@@ -1,0 +1,107 @@
+{"items":[
+    {
+
+        "sys": {"id": "1"},
+        "fields": {
+            "title": "product 1",
+            "price": 10.99,
+            "image": {
+                "fields": { "file": {
+                    "url": "./hero.jpg" 
+                }}
+            }
+        }
+    },
+    {
+
+        "sys": {"id": "2"},
+        "fields": {
+            "title": "product 2",
+            "price": 12.99,
+            "image": {
+                "fields": { "file": {
+                    "url": "./hero.jpg" 
+                }}
+            }
+        }
+    },
+    {
+
+        "sys": {"id": "3"},
+        "fields": {
+            "title": "product 3",
+            "price": 20.99,
+            "image": {
+                "fields": { "file": {
+                    "url": "./hero.jpg" 
+                }}
+            }
+        }
+    },
+    {
+
+        "sys": {"id": "4"},
+        "fields": {
+            "title": "product 1",
+            "price": 40.50,
+            "image": {
+                "fields": { "file": {
+                    "url": "./hero.jpg" 
+                }}
+            }
+        }
+    },
+    {
+
+        "sys": {"id": "5"},
+        "fields": {
+            "title": "product 5",
+            "price": 25,
+            "image": {
+                "fields": { "file": {
+                    "url": "./hero.jpg" 
+                }}
+            }
+        }
+    },
+    {
+
+        "sys": {"id": "6"},
+        "fields": {
+            "title": "product 6",
+            "price": 15.99,
+            "image": {
+                "fields": { "file": {
+                    "url": "./hero.jpg" 
+                }}
+            }
+        }
+    },
+    {
+
+        "sys": {"id": "7"},
+        "fields": {
+            "title": "product 7",
+            "price": 23.40,
+            "image": {
+                "fields": { "file": {
+                    "url": "./hero.jpg" 
+                }}
+            }
+        }
+    },
+    {
+
+        "sys": {"id": "8"},
+        "fields": {
+            "title": "product 8",
+            "price": 50.99,
+            "image": {
+                "fields": { "file": {
+                    "url": "./hero.jpg" 
+                }}
+            }
+        }
+    }
+]
+}
